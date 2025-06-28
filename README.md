@@ -1,6 +1,6 @@
 # 🧠 TokenDil - Türkçe Doğal Dil İşleme Takımı
 
-![TokenDil Logo](logo.png) 
+![TokenDil Logo](images/logo.png) 
 
 ## Hakkımızda
 
