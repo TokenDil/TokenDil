@@ -21,10 +21,10 @@ Doğal dil işleme alanında kamu yararına açık kaynak teknolojiler üretmeyi
 
 ## 👥 Takım Üyeleri
 
-| Üye           | Rol                    | Eğitim Bilgisi                                                                 |
-|---------------|------------------------|--------------------------------------------------------------------------------|
-| **Aleyna ERKUL** | Takım Kaptanı, Yazılım Geliştirici | Yalova Üniversitesi, Bilgisayar Mühendisliği 4. sınıf öğrencisi |
-| **Çağla ÖKMEN**  | Yazılım Geliştirici       | Yalova Üniversitesi, Bilgisayar Mühendisliği Mezunu               |
+| Üye           | Rol                    | Eğitim Bilgisi                                                                 | Github                                           |
+|---------------|------------------------|--------------------------------------------------------------------------------|--------------------------------------------------|
+| **Aleyna ERKUL** | Takım Kaptanı, Yazılım Geliştirici | Yalova Üniversitesi, Bilgisayar Mühendisliği 4. sınıf öğrencisi |https://github.com/aleynaaley
+| **Çağla ÖKMEN**  | Yazılım Geliştirici       | Yalova Üniversitesi, Bilgisayar Mühendisliği Mezunu               |https://github.com/CaglaOkmen |
 
 ---
 
@@ -42,6 +42,6 @@ Doğal dil işleme alanında kamu yararına açık kaynak teknolojiler üretmeyi
 Geliştirici katkıları, öneriler ya da iş birliği talepleri için bizimle iletişime geçebilirsiniz:
 
 - tokendil77@gmail.com  
-
+- linkedin : https://www.linkedin.com/in/tokendil-team-a00220372/
 
 > TokenDil – Türkçe'ye Değer Kat!
